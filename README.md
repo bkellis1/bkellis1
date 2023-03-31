@@ -22,11 +22,11 @@
 
 <p align="left">
   
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/brian-ellis-8b63559/" target="blank">
+  <a href="https://www.linkedin.com/in/brian-ellis-8b63559/" target="blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" 
          alt="https://www.linkedin.com/in/brian-ellis-8b63559/" height="30" width="40" /></a>
 
-  <a href="https://www.youtube.com/c/https://www.youtube.com/user/bkellis1be" target="blank">
+  <a href="https://www.youtube.com/user/bkellis1be" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
          alt="https://www.youtube.com/user/bkellis1be" height="30" width="40" /></a>
   
