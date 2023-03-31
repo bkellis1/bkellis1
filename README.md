@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @bkellis1</h1>
 <h3 align="center">A data analyst with extensive experience using SQL</h3>
 
-<h3 align="left">This space is being used to **showcase examples** of my work</h3>
+<h3 align="left">This space is being used to showcase examples of my work</h3>
  
 - 👨‍💻 All examples will be available here on **Github**: [https://github.com/bkellis1](https://github.com/bkellis1)
 
@@ -11,12 +11,11 @@
 
 <h3 align="left">Below are my current interests and learning goals:</h3>
 
-- 🌱 I’m currently learning **Python**
-
-- 🤝 I’m looking for help understanding **PostgreSQL**
+- 🤝 My professional experience is with Teradata, but for my examples, I’m using **PostgreSQL**
 
 - 👯 I’m looking to collaborate on creating **unique** examples of SQL queries
 
+- 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 
