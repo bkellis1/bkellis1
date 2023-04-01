@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @bkellis1</h1>
-<h3 align="center">A data analyst with extensive experience using SQL</h3>
+<h2 align="center">A data analyst with extensive experience using SQL</h2>
 
 <h3 align="left">This space is being used to showcase examples of my work</h3>
  
@@ -22,11 +22,11 @@
 <p align="left">
   
   <a href="https://www.linkedin.com/in/brian-ellis-8b63559/" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" 
+    <img align="center" src="https://github.com/bkellis1/bkellis1/blob/main/images/LinkedIn.svg" 
          alt="https://www.linkedin.com/in/brian-ellis-8b63559/" height="30" width="40" /></a>
 
   <a href="https://www.youtube.com/user/bkellis1be" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
+    <img align="center" src="https://github.com/bkellis1/bkellis1/blob/main/images/youtube.svg" 
          alt="https://www.youtube.com/user/bkellis1be" height="30" width="40" /></a>
   
 </p>
@@ -35,22 +35,47 @@
 
 <p align="left">
   
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-         alt="linux" width="40" height="40"/> </a> 
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/bkellis1/bkellis1/blob/main/images/Ubuntu.png" 
+         alt="Ubuntu" width="40" height="40"/> </a> 
+    
+  <a href="https://ubuntu-mate.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/bkellis1/bkellis1/blob/main/images/Mate.png" 
+         alt="Mate" width="40" height="40"/> </a> 
+
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/bkellis1/bkellis1/blob/main/images/linux-original.svg" 
+         alt="Linux" width="40" height="40"/> </a> 
   
+  <a href="https://www.libreoffice.org//" target="_blank" rel="noreferrer">
+    <img src="https://github.com/bkellis1/bkellis1/blob/main/images/LibreOffice_Icon.png" 
+         alt="LibreOffice" width="40" height="40"/> </a> 
+ 
+   <a href="https://www.teradata.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/bkellis1/bkellis1/blob/main/images/Teradata_Icon.PNG" 
+         alt="Teradata" width="40" height="40"/> </a>  
+    
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
+    <img src="https://github.com/bkellis1/bkellis1/blob/main/images/SQL_Server.svg" 
          alt="mssql" width="40" height="40"/> </a>
   
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
-         alt="postgresql" width="40" height="40"/> </a>
+    <img src="https://github.com/bkellis1/bkellis1/blob/main/images/PostgreSQL.png" 
+         alt="PostgreSQL" width="50" height="40"/> </a>
+  
+  <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/bkellis1/bkellis1/blob/main/images/pgAdmin.png" 
+         alt="pgAdmin" width="90" height="40"/> </a>
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+    <img src="https://github.com/bkellis1/bkellis1/blob/main/images/python.svg" 
          alt="python" width="40" height="40"/> </a>
   
+   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/bkellis1/bkellis1/blob/main/images/Tableau_Icon.png" 
+         alt="Tableau" width="40" height="40"/> </a> 
+ 
+
 </p>
 
 
